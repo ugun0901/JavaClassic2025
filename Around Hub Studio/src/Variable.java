@@ -4,7 +4,8 @@ public class Variable {
         int a = 0;
         double b = 2.0;
         char c = 'a';
-        Boolean d = true;
+        boolean d = true;
+
 
         System.out.println(a);
         System.out.println(b);
